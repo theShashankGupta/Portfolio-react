@@ -1,11 +1,11 @@
 import React from "react";
+import logo from "../../assets/logog.gif"
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
   AiOutlineTwitter,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import logo from "../../assets/sLogo.png";
 
 const Footer = () => {
     let date = new Date();
@@ -17,8 +17,10 @@ const Footer = () => {
             <span>I dreamt it, I did it. I'm dreaming it, I will do it.</span>
           </Col>
           <Col md="4" className="footer-copywright">
-            <span>Copyright © {year}</span>
-            <img src={logo} className="img-fluid logo" alt="brand" />
+            <span>Copyright © {year}  </span>
+            <div className="logo-wrapper">
+            <img src={logo} className=" logo-img" alt="brand" />
+          </div>
           </Col>
           <Col md="4" className="footer-body">
             <ul className="footer-icons">

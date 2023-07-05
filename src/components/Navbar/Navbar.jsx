@@ -2,9 +2,12 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-import logo from "../../assets/sLogo.png";
+// import logo from "../../assets/sLogo.png";
+import logo from "../../assets/logog.gif"
 // import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
+import { FaLaptopCode } from 'react-icons/fa';
+
 // import { CgGitFork } from "react-icons/cg";
 import {
   // AiFillStar,
@@ -39,7 +42,11 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img src={logo} className="img-fluid logo" alt="brand" />
+          {/* <span> <FaLaptopCode /> Shashank</span> */}
+          <div className="logo-wrapper">
+            <img src={logo} className=" logo-img" alt="brand" />
+            <span className="logo yellow">Shashank</span>
+          </div>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -120,3 +127,4 @@ function NavBar() {
 }
 
 export default NavBar;
+

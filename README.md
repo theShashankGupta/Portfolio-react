@@ -2,8 +2,6 @@
 
 [🔗Live Demo🔗](https://portfolio-react-dusky-delta.vercel.app/)
 
-![Protfolio Website]
-
 <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/19sajib/portfolio?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
@@ -20,6 +18,11 @@
 **📱 Fully Responsive**
 
 <br />
+
+##Images 
+
+<img width="959" alt="image" src="https://github.com/theShashankGupta/Portfolio-react/assets/106386615/ed4c6fc2-f5b8-4602-92ed-28281a2b16c1">
+
 
 ## 🚀 How to get started?
 

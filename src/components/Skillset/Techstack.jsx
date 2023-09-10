@@ -8,6 +8,8 @@ import {
   
 } from "react-icons/di";
 import {
+  SiTypescript,
+  SiNestjs,
   SiCss3,
   SiCplusplus,
   SiMongodb,
@@ -32,10 +34,14 @@ const Techstack = () => {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
       </Col>
-      
-      
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNestjs />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiExpress />
       </Col>

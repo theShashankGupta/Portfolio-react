@@ -23,7 +23,7 @@ const About = () => {
                  and I'm from <span className="yellow"> INDIA.</span>
                 <br />
                 <br />
-                I'm a <span className="yellow">Final-Year undergraduated </span> pursuing my Bachelor's degree in <span className="yellow">Information Technology </span>.
+                I'm a <span className="yellow">Backend Engineering intern</span> at <span className="yellow">TickerTape(SmallCase)</span> and <span className="yellow">Final-Year undergraduated </span> pursuing my Bachelor's degree in <span className="yellow">Information Technology </span>.
                 <br />
                 <br />
                 I love <span className="yellow">solving problems </span>that involve complex real-world scenarios, hence interested in 

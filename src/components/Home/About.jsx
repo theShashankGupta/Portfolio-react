@@ -29,7 +29,7 @@ const About = () => {
                 I love <span className="yellow">solving problems </span>that involve complex real-world scenarios, hence interested in 
                 <span className="yellow">algorithms and data structures </span> and actively participated in various coding competitions across multiple platforms and have earned various achievements.
                   <br />
-                  <br />I have an experience with <span className="yellow">WEB Development</span> with technologies - <span className="yellow">HTML, CSS, Javascript, NodeJs, Expressjs, MongoDB, Reactjs,Rest Api</span> and made a couple of projects in the same.
+                  <br />I have an experience with <span className="yellow">WEB Development</span> with technologies - <span className="yellow">HTML, CSS, Javascript, Typescript, NodeJs, Nestjs, Expressjs, MongoDB, Reactjs, Rest Api</span> and made a couple of projects in the same.
                   <br />
                   <br />
                   I am a dedicated and driven individual known for my <span className="yellow">consistent approach and ability to adapt and learn quickly</span>, I am highly motivated to work with an organization that allows me to work on <span className="yellow"> complex problems</span>, and helps me define new boundaries for myself.

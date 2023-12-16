@@ -30,7 +30,7 @@ const Contact = () => {
         "service_niilndo",
         "template_6z5idye",
         form.current,
-        "VOBt6Akm1LhI5CZG-"
+        "m6_e2xxMnTiy4WMXo"
       )
       .then(
         (result) => {
